@@ -1,6 +1,6 @@
 # 图像验证码解决方案
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/image-captcha)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/image-captcha)
 
 借助 Bright Data 高级的验证码解决技术，轻松绕过图像验证码。利用机器学习算法、[自动化 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)和强大的代理基础设施，确保对目标网站的持续且稳定的访问。
 
